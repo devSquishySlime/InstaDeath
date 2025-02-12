@@ -1,0 +1,9 @@
+name: InstaDeath
+main: com.squishyslime.Main
+version: 1.0.0
+author: SquishySlime
+description: With this plugin you can kill entities with just one hit.
+commands:
+  instadeath:
+    description: Enables/Disables the ability to kill entities with one hit.
+    aliases: id
